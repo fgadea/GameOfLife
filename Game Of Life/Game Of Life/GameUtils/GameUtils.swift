@@ -2,9 +2,10 @@
 //  GameUtils.swift
 //  Game Of Life
 //
-//  Created by MARIA EMPAR SALVADOR CALABUIG on 3/10/24.
+//  Created by FELIPE GADEA LLOPIS on 3/10/24.
 //
 
+import Foundation
 
 class GameUtils {
     func wait(milliseconds: Int) {
